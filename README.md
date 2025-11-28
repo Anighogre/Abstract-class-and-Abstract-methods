@@ -8,7 +8,7 @@ Factory Design Pattern<br>
 Anonymous Inner Classes<br>
 All examples are organized into separate modules/directories for easy understanding and revision.<br>
 <h2>📝 Modules Explained</h2><br>
-1. abstract_method
+<h4>1. abstract_method</h4>
 
 Contains programs demonstrating:
 
@@ -18,7 +18,7 @@ How child classes override abstract methods
 
 Achieving partial abstraction in Java
 
-2. anonymous_inner_class/
+<h4>2. anonymous_inner_class</h4>
 
 Shows:
 
@@ -28,7 +28,7 @@ Overriding methods using anonymous inner classes
 
 Real use-cases like event handling
 
-3. lab_9_sep_abstract/
+<h4>3. lab_9_sep_abstract</h4>
 
 Basic level examples:
 
@@ -36,7 +36,7 @@ Abstract superclass & concrete subclass
 
 Method implementation rules
 
-4. lab_10_sep_abstract/
+<h4>4. lab_10_sep_abstract</h4>
 
 Intermediate level:
 
@@ -44,7 +44,7 @@ Multiple subclasses inheriting the same abstract class
 
 Polymorphism using abstract references
 
-5. lab_11_sep_equals/
+<h4>5. lab_11_sep_equals</h4>
 
 Includes:
 
@@ -52,13 +52,13 @@ Includes:
 
 Checking object equality in Java
 
-6. lab_12_sep_abstract/
+<h4>6. lab_12_sep_abstract</h4>
 
 More abstraction-based use cases:
 
 Real-life examples (Shape, Bank, Vehicle, etc.)
 
-7. lab_16_interface_with_factory/
+<h4>7. lab_16_interface_with_factory</h4>
 
 Implements the Factory Design Pattern:
 
@@ -68,7 +68,7 @@ Factory class returning specific object at runtime
 
 Achieving loose coupling
 
-8. lab_16_sep_functional_interface/
+<h4>8. lab_16_sep_functional_interface</h4>
 
 Shows:
 
